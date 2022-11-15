@@ -3,15 +3,15 @@ Record what I learn while preparing for the Adavanced Data Analyst Professional 
 
 ## 📑 Index
 * 🌟 머신러닝   
-      SVM & Neural Networks   
-      Clustering  
-      Naive Bayes Clf & KNN   
-      RandomForest & Bagging & Voting     
-      Logistic Regression     
-      Boosting(GBM,XGB,LGBM)  
-      Sckit-Learn Preprocessing Tools     
-      Linear Regresion  
-      Decision Tree     
+      - SVM & Neural Networks   
+      - Clustering  
+      - Naive Bayes Clf & KNN   
+      - RandomForest & Bagging & Voting     
+      - Logistic Regression     
+      - Boosting(GBM,XGB,LGBM)  
+      - Sckit-Learn Preprocessing Tools     
+      - Linear Regresion  
+      - Decision Tree     
 * 🌟 통계분석   
       
 * 핸들링
