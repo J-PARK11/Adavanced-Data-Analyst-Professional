@@ -3,7 +3,7 @@ Record what I learn while preparing for the Adavanced Data Analyst Professional 
 
 ## 📑 Index
 * 🌟 머신러닝   
-      - SVM & Neural Networks   
+            - SVM & Neural Networks   
       - Clustering  
       - Naive Bayes Clf & KNN   
       - RandomForest & Bagging & Voting     
